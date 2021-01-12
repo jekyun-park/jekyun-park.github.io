@@ -1,10 +1,11 @@
 # Projects
-# # uncomment the urls if you wish to display them, and add your own URL
+# uncomment the urls if you wish to display them, and add your own URL
 
 - project: DAGATHER
-    role: UI/UX & Version Control
-    duration: 2020 &mdash; Present
-    description: [CAPSTONE DESIGN PROJECT🤖](https://github.com/Dagather)
+  role: UI/UX & Version Control
+  duration: 2020 &mdash; Present
+  description: CAPSTONE DESIGN PROJECT 🤖
+  url : "https://github.com/Dagather"
   
 - project: toy-weather
     role:
