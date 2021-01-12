@@ -11,7 +11,7 @@ print("Hi, my name is Jegyun Park")
 
 > 깃허브 블로그 By 제균
 
-## Study
+## What I'm Studying,,,
 
 - Python
 - VanilaJS
