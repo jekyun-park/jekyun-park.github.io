@@ -1,19 +1,16 @@
-Projects
+# Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: DAGATHER
   role: UI/UX & Version Control
   duration: 2020 &mdash; Present
-  description: CAPSTONE DESIGN PROJECT 🤖
   url: "https://github.com/Dagather"
-  description: RPA를 활용한 유저 맞춤형 업무 자동화 서비스
-  
+  description: CAPSTONE DESIGN PROJECT - 🤖 RPA를 활용한 유저 맞춤형 업무 자동화 서비스
+
 - project: toy-weather
-  role:
+  role: Develop study
   duration: 2021 &mdash; Present
-  description: toy-project with react-native
-
-
+  description: toy-project, making weather application with react-native
 # # Springfield Community Outreach Group
 # - project: Springfield Community Outreach Group
 #   role: Co-Founder & Organizer
