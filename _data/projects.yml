@@ -8,7 +8,7 @@
   description: [CAPSTONE DESIGN project]
 
 - project: toy-weather
-  role: Enjoy
+  role:
   duration: 2021 &mdash; Present
   description: toy-project with react-native
 # # Springfield Community Outreach Group
