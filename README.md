@@ -11,12 +11,4 @@ print("Hi, my name is Jegyun Park")
 
 > 깃허브 블로그 By 제균
 
-## What I'm Studying,,,
-
-- Python
-- VanilaJS
-- React
-- React-Native
-- Algorithms
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekyun-park&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jekyun-park&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
